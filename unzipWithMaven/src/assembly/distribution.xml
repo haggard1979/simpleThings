@@ -14,7 +14,7 @@
 			</excludes>
 		</fileSet>
 		<fileSet>
-			<directory>src/test/resources</directory>
+			<directory>target/unzipped</directory>
 		</fileSet>
 	</fileSets>
 </assembly>

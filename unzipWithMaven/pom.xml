@@ -36,7 +36,7 @@
 						<configuration>
 							<tasks>
 								<echo message="prepare phase" />
-								<unzip src="src/main/resources/zipArchive.zip" dest="src/test/resources" />
+								<unzip src="src/main/resources/zipArchive.zip" dest="target/unzipped" />
 							</tasks>
 						</configuration>
 						<goals>
